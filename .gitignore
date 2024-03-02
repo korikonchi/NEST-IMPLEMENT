@@ -3,8 +3,9 @@
 /node_modules
 
 /mongo
+Dockerfile
 
-.env
+.env.template
 .env.prod
 
 yarn.lock
